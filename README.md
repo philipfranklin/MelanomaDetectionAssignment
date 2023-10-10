@@ -6,6 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
   
 
 ## General Information
@@ -23,7 +24,6 @@
 - tensorflow 2.14.0
 - NumPy 1.19.2
 - Pandas 2.1.1
-- 
 
 ## Acknowledgements
 Give credit here.
